@@ -400,7 +400,7 @@ docs/databases.md
 Clone the repository:
 
 ```bash
-git clone https://github.com/12888950s/medical-appointment-microservices.git
+git clone https://github.com/SouhaGuezguez0702/medical-appointment-microservices.git
 cd medical-appointment-microservices
 ```
 
